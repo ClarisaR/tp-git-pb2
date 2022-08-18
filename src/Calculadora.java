@@ -29,6 +29,5 @@ public class Calculadora {
 		System.out.println("El resultado es " + resultado.toString());
 		
 		teclado.close();
-		System.out.println("Prueba");
 	}
 }
